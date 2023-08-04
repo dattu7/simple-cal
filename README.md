@@ -1,1 +1,1 @@
-# simple-cal
+# SimpleCalculator_react
